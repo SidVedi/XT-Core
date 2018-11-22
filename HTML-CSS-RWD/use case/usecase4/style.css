@@ -1,0 +1,31 @@
+    html,
+    body {
+    font-family: sans-serif;
+    margin: 0;
+    }
+    .container {
+    margin: 0 auto;
+    }
+    .calulator {
+    margin: 0 auto;
+    max-width: 400px;
+    }
+    input {
+    padding: 15px 38px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    width: 100%;
+    }
+    .nums {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #9e9e9e42;
+    }
+    .nums div {
+    padding: 20px;
+    font-weight: bold;
+    flex: 50px;
+    text-align: center;
+    }
