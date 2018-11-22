@@ -1,2 +1,4 @@
+@author: Siddharth Vedi
+
 # XT-Core
-Repo for XT Core assignments
+Repository for XT Core assignments
