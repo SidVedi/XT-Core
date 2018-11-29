@@ -16,7 +16,7 @@ The folder contains the following use cases week-wise.
    Create a Todo Api, using Arrays and related functions
 
 4. Closure - Value caching
-   If function is called with the same value again, the value must be returned from cache.
+   If function is called with the same value again, the value must be returned from cache. 
    Use a data structure and Closures
 
 5. Fetch
